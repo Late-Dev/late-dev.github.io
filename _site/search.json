@@ -1,0 +1,73 @@
+[
+  
+    {
+      "title"       : "HRGpTip - HR-ассистент на основе искусственного интеллекта",
+      "category"    : "",
+      "tags"        : "ChatGPT, HR",
+      "url"         : "./hrgptip.html",
+      "date"        : "2023-03-12 00:00:00 +0000",
+      "description" : "HRGpTip - HR-ассистент на основе искусственного интеллекта",
+      "content"     : ""
+    } ,
+  
+    {
+      "title"       : "Видеоаналитика эмоций учеников школ",
+      "category"    : "",
+      "tags"        : "Computer Vision",
+      "url"         : "./educational_video_analytics.html",
+      "date"        : "2022-06-26 00:00:00 +0000",
+      "description" : "Видеоаналитика эмоций учеников школ",
+      "content"     : ""
+    } ,
+  
+    {
+      "title"       : "Распознавание речи на видео новостей РБК",
+      "category"    : "",
+      "tags"        : "Speech Recognition",
+      "url"         : "./video_transcription.html",
+      "date"        : "2021-12-04 00:00:00 +0000",
+      "description" : "Распознавание речи на видео новостей РБК",
+      "content"     : ""
+    } ,
+  
+    {
+      "title"       : "Цифровая ферма - видеоаналитика активности поросят",
+      "category"    : "",
+      "tags"        : "Computer Vision",
+      "url"         : "./digital_farm.html",
+      "date"        : "2021-11-21 00:00:00 +0000",
+      "description" : "Цифровая ферма - видеоаналитика активности поросят",
+      "content"     : "Как за 40 часов распознать всех поросят с помощью компьютерного зрения. Решение задачи на AgroCode Hack"
+    } ,
+  
+    {
+      "title"       : "Генерация названий для новостных подборок Интерфакса",
+      "category"    : "",
+      "tags"        : "Natural Language Processing, Language Models",
+      "url"         : "./news_title_generation.html",
+      "date"        : "2021-08-22 00:00:00 +0000",
+      "description" : "Генерация названий для новостных подборок Интерфакса",
+      "content"     : ""
+    } ,
+  
+    {
+      "title"       : "Почтовый ассистент для топ-менеджеров",
+      "category"    : "",
+      "tags"        : "Natural Language Processing",
+      "url"         : "./mail_assistant.html",
+      "date"        : "2020-11-29 00:00:00 +0000",
+      "description" : "Почтовый ассистент для топ-менеджеров",
+      "content"     : ""
+    } ,
+  
+    {
+      "title"       : "Предсказание роста или падения востребованности цифровых компетенций",
+      "category"    : "",
+      "tags"        : "Time Series Forecasting",
+      "url"         : "./digital_competencies_trend_forecast.html",
+      "date"        : "2020-10-15 00:00:00 +0000",
+      "description" : "Предсказание роста или падения востребованности цифровых компетенций",
+      "content"     : ""
+    } 
+  
+]

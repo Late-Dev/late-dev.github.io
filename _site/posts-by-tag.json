@@ -1,0 +1,78 @@
+
+
+[   
+      
+  {
+  "tag" : "ChatGPT",
+  "posts" : [
+      
+      "./hrgptip.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Computer Vision",
+  "posts" : [
+      
+      "./educational_video_analytics.html",
+      
+      "./digital_farm.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "HR",
+  "posts" : [
+      
+      "./hrgptip.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Language Models",
+  "posts" : [
+      
+      "./news_title_generation.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Natural Language Processing",
+  "posts" : [
+      
+      "./news_title_generation.html",
+      
+      "./mail_assistant.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Speech Recognition",
+  "posts" : [
+      
+      "./video_transcription.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Time Series Forecasting",
+  "posts" : [
+      
+      "./digital_competencies_trend_forecast.html"
+      
+    ]
+  } 
+    
+]
