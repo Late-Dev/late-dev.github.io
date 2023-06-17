@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: late-dev.github.io/sitemap.xml
