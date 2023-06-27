@@ -6,7 +6,7 @@ title:  Видеоаналитика эмоций учеников школ
 date:   2022-06-26
 description: Видеоаналитика эмоций учеников школ
 img: posts/20220626/educational_videoanalytics.jpg
-tags: [Computer Vision]
+tags: [Computer Vision, EdTech]
 author: 
 github: Late-Dev/Educational-Video-Analytics
 mathjax: yes

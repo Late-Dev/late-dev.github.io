@@ -6,7 +6,7 @@ title:  Цифровая ферма - видеоаналитика активн�
 date:   2021-11-21
 description: Цифровая ферма - видеоаналитика активности поросят
 img: posts/20211121/pig.jpeg
-tags: [Computer Vision]
+tags: [Computer Vision, AgroTech]
 author: 
 github: Late-Dev/pig-vision-agrohack2021
 mathjax: yes

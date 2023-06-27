@@ -6,7 +6,7 @@ title:  Предсказание роста или падения востреб
 date:   2020-10-15
 description: Предсказание роста или падения востребованности цифровых компетенций
 img: posts/20201015/timeseries.webp
-tags: [Time Series Forecasting]
+tags: [Time Series Forecasting, EdTech]
 author: 
 github: 
 mathjax: yes

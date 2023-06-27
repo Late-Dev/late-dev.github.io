@@ -6,7 +6,7 @@ title:  Почтовый ассистент для топ-менеджеров
 date:   2020-11-29
 description: Почтовый ассистент для топ-менеджеров
 img: posts/20201129/mail_assistant.webp
-tags: [Natural Language Processing]
+tags: [Natural Language Processing, Language Models]
 author: 
 github: 
 mathjax: yes
