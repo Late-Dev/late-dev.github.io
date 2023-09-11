@@ -8,7 +8,7 @@ description: Видеоаналитика активности техники н
 img: posts/20230625/crane.jpg
 tags: [Computer Vision]
 author: 
-github:
+github: Late-Dev/construction_site_analytics
 mathjax: yes
 ---
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS3E7DuVZHjPsxyEmZQiPbD5NACRcu-h5B27CxytkS5ns1fv0sXdq9YTzz7rdi5BL35VZBL3erOzhxg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="360" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
